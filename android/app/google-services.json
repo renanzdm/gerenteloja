@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "513190244144",
+    "firebase_url": "https://lojavirtual-ad7bd.firebaseio.com",
+    "project_id": "lojavirtual-ad7bd",
+    "storage_bucket": "lojavirtual-ad7bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513190244144:android:ce4df063876127f5",
+        "android_client_info": {
+          "package_name": "br.com.gerente.renan.gerenteloja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513190244144-p82p7fgq9m38h5gluuavpeek8rlikmul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXw81w_L05sgbD_XMtSygMejk6V8RnQcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513190244144-p82p7fgq9m38h5gluuavpeek8rlikmul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513190244144:android:e2700111ae2c1397",
+        "android_client_info": {
+          "package_name": "br.com.renan.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513190244144-p82p7fgq9m38h5gluuavpeek8rlikmul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXw81w_L05sgbD_XMtSygMejk6V8RnQcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513190244144-p82p7fgq9m38h5gluuavpeek8rlikmul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
